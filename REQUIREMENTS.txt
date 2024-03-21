@@ -1,0 +1,18 @@
+Design Web app of our own using Python and Javascript.
+
+Requirements:
+1. Web app distinct from others.
+2. Web app utilize Django(backend) and JavaScript(front end)
+3. Web app must be mobile responsive. -> Some CSS is needed for this.
+4. Documentation that documents project thoroughly of what we did and why we did it
+5. WriteUp describing our project.
+
+WriteUp:
+1. Description of uniqueness of our project and complexities involved- Distinctiveness and Complexity-> under Header.
+2. Design approach used and why we used them.
+3. What is contained in each file created.
+4. How to run our application.
+5. Any other info about our project.
+
+
+We are free to have our own design, look and feel of our web app!
